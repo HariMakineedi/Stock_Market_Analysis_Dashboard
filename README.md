@@ -27,10 +27,12 @@ Provide actionable insights into **country allocation**, **sector contribution**
 
 ---
 
-## 📬 Connect
-- **LinkedIn:** https://www.linkedin.com/in/harimakineedi  
-- **Email:** harimakineedi29@email.com  
-- **Phone:** +91-9133792875
+## 🤝 Connect With Me
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/hari-makineedi/)
+- 📧 Email: harimakineedi@email.com
+- 📱 Phone: +91- 9133792875
+
 
 
 
