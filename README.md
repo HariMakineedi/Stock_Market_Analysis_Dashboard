@@ -11,7 +11,7 @@ Provide actionable insights into **country allocation**, **sector contribution**
 
 ## 📊 Dashboard Preview
 
-![Stock Market Analysis Dashboard](https://github.com/HariMakineedi/Rapido_Rides_Data_Analysis/blob/main/Screenshot%202025-08-06%20123120.png)
+![Stock Market Analysis Dashboard](https://github.com/HariMakineedi/Stock_Market_Analysis_Dashboard/blob/main/Screenshot%202025-08-17%20200428.png)
 
 ---
 
