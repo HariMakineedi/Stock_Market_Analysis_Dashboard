@@ -17,7 +17,7 @@ Provide actionable insights into **country allocation**, **sector contribution**
 
 ## 🔧 Tech Stack
 - **Power BI** 
-- **Excel **  
+- **Excel**  
 
 
 ---
