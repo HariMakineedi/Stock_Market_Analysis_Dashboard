@@ -15,12 +15,14 @@ Provide actionable insights into **country allocation**, **sector contribution**
 
 ---
 
-## 🔧 Tech Stack
-- **Power BI** 
-- **Excel**  
+## 🔧 Tools & Technologies
 
+- SQL
+- Power BI
+- Microsoft Excel
+- Power Query (ETL)
+- DAX (KPIs and Measures)
 
----
 
 
 
