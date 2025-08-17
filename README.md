@@ -23,6 +23,10 @@ Provide actionable insights into **country allocation**, **sector contribution**
 - Power Query (ETL)
 - DAX (KPIs and Measures)
 
+## 📁 Dataset
+
+[📥 Download Dataset (Rapido-Bookings-Data.xlsx)](https://github.com/HariMakineedi/Rapido_Rides_Data_Analysis/blob/main/Bookings%20.csv.xlsx)
+
 
 
 
