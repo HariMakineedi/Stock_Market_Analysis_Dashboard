@@ -9,9 +9,9 @@ Provide actionable insights into **country allocation**, **sector contribution**
 
 ---
 
-## 🖼️ Dashboard Preview
-<!-- Replace with your repo image path -->
-![Stock Market Dashboard](stock-market-dashboard.png)
+## 📊 Dashboard Preview
+
+![Stock Market Analysis Dashboard](https://github.com/HariMakineedi/Rapido_Rides_Data_Analysis/blob/main/Screenshot%202025-08-06%20123120.png)
 
 ---
 
